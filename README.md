@@ -1,4 +1,4 @@
-# space-invaders-java
+# Space Invaders in Java
 The famous arcade game, Space Invaders, implemented using Java
 
 Requirements:
